@@ -1,0 +1,5 @@
+{
+  "name": "React Music Player",
+  "description": "A fully functional music player with playlist, progress bar, and volume controls.",
+  "requestFramePermissions": []
+}
